@@ -1,1 +1,1 @@
-echo "Good"
+echo "Good Morning"
